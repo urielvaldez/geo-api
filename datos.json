@@ -1,18 +1,24 @@
 [
-    {"nombre" : " Geometry Dash ", 
-    "imagen" : "imagenes/gd.webp " 
+    {"nombre" : "Geometry Dash ", 
+    "imagen" : "imagenes/gd.webp",
+    "info":"Geometry Dash,es un videojuego creado en 2013 por Robert Topala, El objetivo de este juego es manejar un pequeño  cubo y distintos vehículos por una serie de obstáculos para llegar al final del nivel. El único control es presionar la pantalla, esto hace  que el pequeño cubo  de  un pequeño salto.este , también puedecambiar la forma a naves, ruedas, naves extraterrestre, una flecha, un robot, y una araña; cada uno con  diferentes mecánicas.Mientras que para el 13 de agosto de 2013fue desarrollado por su empresa independiente(<a href=https://www.robtopgames.com target=_blank>Rob Top Games</a>)para la jugavilidad en dispositivos moviles,para posteriormente en el 22 de diciembre de 2014 ser lanzado para la plataforma de distribucion digital (<a href=https://es.wikipedia.org/wiki/Steam target=_blank>Steam</a>).Con mas de 5,000,000(cinco millones) de descargas."
     },
-    {"nombre" : " Geometry Dash Lite", 
-    "imagen" : "imagenes/l.webp"
+    {"nombre" : "Geometry Dash Lite", 
+    "imagen" : "imagenes/l.webp",
+    "info":"Geometry Dash Lite, es la version gratuita de  Geometry Dash,tambien creada por Rob TopGames,en agosto de 2013 lanzada para dispositivos moviles, el cual solo incluye 13 niveles de la version completa,ademas de no poseer editor de niveles lo que impide publicar y crear tus propios niveles.Con mas de 100,000,000(cien millones) de descargas."
     },
-    {"nombre" : " Geometry Dash Meltdown", 
-    "imagen" : "imagenes//m.jpg "
+    {"nombre" : "Geometry Dash Meltdown", 
+    "imagen" : "imagenes/m.jpg ",
+    "info":"Geometry Dash Meltdown,fue creado el 19 de diciembre de 2015 por Rob Top Games para dispositivos   moviles (¡OS y Android), en la que esta vercion tan solo cuenta con tres niveles con mas de 50,000,00 (cincuenta millones) de descargas.Las canciones que incluyen los diferentes niveles fueron creadas por:F-777  y Ocular  Nebula y algunas modificadas por Rob Top Games."
     },
-    {"nombre" : " Geometry Dash Word ", 
-    "imagen" : "imagenes/w.jpg "
+    {"nombre" : "Geometry Dash Word", 
+    "imagen" : "imagenes/w.jpg ",
+    "info":"Geometry Dash Word,fue creado el 21 de diciembre  de 2016 para Android y para el dia siguiente para ¡OS por Rob Top Games con una diferente presentacion, esto a que esta presentada con dos islas(Dashlands y Toxic Factory) las cuales incluyencinco niveles cada una  con mas de 50,000,000(cincuenta millones) de descargas.Las canciones de los niveles fueron echas por:Dex Arson,Walterflanme y Ocular Nebula y algunas modificadas porRob Top Games."
     },
-     {"nombre" : " Geometry Dash Subzero ", 
-     "imagen" : "imagenes/s.webp " 
+     {"nombre" : "Geometry Dash Subzero", 
+     "imagen" : "imagenes/s.webp",
+     "info":"Geometry Dash Subzero, fue creado el 21 de diciembre de 2017 por Rob Top Games para ¡OS y Android,esta version solo cuenta con tres niveles  con mas de 50,000,000(cincuenta millones) de descargas. Los niveles cuentan con musica de MDK,Bossfight,BoomKitty y Ocular Nebula las cuales fueron modificadas por (Rob Top Games)."
+
     }
     ] 
     
