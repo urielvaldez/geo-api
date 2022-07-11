@@ -1,7 +1,6 @@
 [
     {"nombre" : " Geometry Dash ", 
-    "imagen" : "imagenes/gd.webp " ,
-    "juegos" : [ " Stereo Madness-Easy ","Back on Track-Easy ","Polargeist-Normal"," Dry Out-Normal"," Base After Base-Hard", "Cant Let Go'-Hard", "Jumper-Harder", "Time Machine-Harder", "Cycles-Harder", "xStep-Insane", "Clutterfunk-Insane", "Theory of Everything-Insane", "Electroman Adventures-Insane", "Clubstep-Demon;se desbloquea recolectando 10 monedas secretas", "Electrodynamix-Insane" ,"Hexagon Force-Insane ","Blast Processing-Harder", "Theory of Everything 2-Demon;se desbloquea recolectando 20 monedas secretas", "Geometrical Dominator-Harder", "Deadlocked-Demon;se desbloquea recolectando 30 monedas secretas", "Fingerdash-Insane" ]
+    "imagen" : "imagenes/gd.webp " 
     },
     {"nombre" : " Geometry Dash Lite", 
     "imagen" : "imagenes/l.webp"
